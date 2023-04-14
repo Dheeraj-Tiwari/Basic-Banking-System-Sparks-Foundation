@@ -1,12 +1,3 @@
-Basic Banking System
-
-
-
-
- Transaction status: Transfer table/ Transfer History which records all the transactions
-
-
-Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 # TSF--Basic-Banking-System
 > <h4>DHEERAJ TIWARI</h4>
 >
